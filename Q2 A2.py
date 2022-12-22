@@ -1,6 +1,6 @@
 name = "Anshuman Kumar"
 sid = 22104120
-department_name = "Electronics and communication"
+department_name = "Electrical Engineering"
 cgpa = 10.0
 print("Hey," , name , "Here!")
 print("My SID is", sid )
