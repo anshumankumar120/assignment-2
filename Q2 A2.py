@@ -1,5 +1,5 @@
-name = "Tanish Jindal"
-sid = 22105092
+name = "Anshuman Kumar"
+sid = 22104120
 department_name = "Electronics and communication"
 cgpa = 10.0
 print("Hey," , name , "Here!")
